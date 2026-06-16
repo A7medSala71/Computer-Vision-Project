@@ -250,7 +250,7 @@ python src/evaluate.py --checkpoint results/aug/best.pth --split test
 
 ## 📄 Report
 
-The full project report is available as [`vision_v2.pdf`](vision_v2.pdf), covering:
+The full project report is available as [`vision v2.pdf`](vision v2.pdf), covering:
 - Dataset curation decisions
 - Architecture design and training recipe justifications
 - Complete results tables and training dynamics
